@@ -13,11 +13,9 @@ export const Header = () => {
                     <Link className='option' to="/shop">
                         Shop
                     </Link>
-                <div className="options">
                     <Link className='option' to="/shop">
                         contacts
                     </Link>
-                </div>
             </div>
         </div>
      );
